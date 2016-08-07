@@ -1,0 +1,27 @@
+{
+  "name": "Electron",
+  "description": "Basic structure for Electron apps.",
+  "authors": [
+    "IvánHdzD"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "CCO",
+  "keywords": [
+    "Electron"
+  ],
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "^2.0.4",
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7"
+  }
+}
