@@ -25,7 +25,7 @@ First, you need to have installed NodeJS, NPM, Gitbash (Only for Windows) and ne
 You can install above packages writing it in a gitbash console window:
 
 ```bash
-npm install -g electron-prebuilt electron-package bower
+npm install -g electron-prebuilt electron-packager bower
 ```
 
 Then, you need to install all necesarry packages inside package.json and bower.json by:
